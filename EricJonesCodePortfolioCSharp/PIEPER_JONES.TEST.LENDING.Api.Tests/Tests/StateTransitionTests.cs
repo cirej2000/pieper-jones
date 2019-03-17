@@ -1,22 +1,16 @@
 ﻿using Common.Logging;
-using PIEPER_JONES.Common.Enums;
-using PIEPER_JONES.Core.Api.Models.Borrowers;
-using PIEPER_JONES.Core.Api.Models.LoanApplications;
-using PIEPER_JONES.TEST.LOANAPP.Api.Common.Core.ClientObjects;
-using PIEPER_JONES.TEST.LOANAPP.Api.Tests.Framework;
-using PIEPER_JONES.TEST.LOANAPP.Api.Tests.Tests.Parameters;
-using PIEPER_JONES.TEST.Common.API.Rest;
-using PIEPER_JONES.TEST.Core.Automation;
+using PIEPER_JONES.TEST.LENDING.Api.Tests.Framework;
+using PIEPER_JONES.TEST.LENDING.Api.Tests.Tests.Parameters;
 using NUnit.Framework;
 using System;
 using System.Net;
-using static PIEPER_JONES.TEST.LOANAPP.Api.Tests.Framework.Utilities.AgentAssignments;
-using static PIEPER_JONES.TEST.LOANAPP.Api.Tests.Framework.Workflows.ApprovalWorkflow;
-using static PIEPER_JONES.TEST.LOANAPP.Api.Tests.Framework.Workflows.PreSubmitWorkflows;
-using static PIEPER_JONES.TEST.LOANAPP.Api.Tests.Framework.Workflows.StateTransitionWorkflows;
-using static PIEPER_JONES.TEST.LOANAPP.Api.Tests.Tests.Validations;
+using static PIEPER_JONES.TEST.LENDING.Api.Tests.Framework.Utilities.AgentAssignments;
+using static PIEPER_JONES.TEST.LENDING.Api.Tests.Framework.Workflows.ApprovalWorkflow;
+using static PIEPER_JONES.TEST.LENDING.Api.Tests.Framework.Workflows.PreSubmitWorkflows;
+using static PIEPER_JONES.TEST.LENDING.Api.Tests.Framework.Workflows.StateTransitionWorkflows;
+using static PIEPER_JONES.TEST.LENDING.Api.Tests.Tests.Validations;
 
-namespace PIEPER_JONES.TEST.LOANAPP.Api.Tests
+namespace PIEPER_JONES.TEST.LENDING.Api.Tests
 {
     [TestFixture("QA")]
     [Category("Core")]
