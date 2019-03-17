@@ -1,0 +1,50 @@
+susan_bad_code:
+  loan_amount: 10000
+  first_name: SUSAN
+  last_name: BRONSON
+  date_of_birth: February 1, 1972
+  house_number: 3254
+  street_name: SHORE
+  street_type: RD
+  city: OCEANSIDE
+  state: NY
+  postal_code: 11572
+  housing_payment: 1000
+  income: 40000
+  fico_score: 813
+  offer_code: HAHAH-AHAHA
+  offer_count: 5
+catherine_bad_code:
+  loan_amount: 7500
+  first_name: CATHERINE
+  last_name: LORIMORE
+  date_of_birth: February 1, 1968
+  house_number: 55
+  street_name: 52ND
+  street_type: ST
+  apt_num: 35
+  city: NEW YORK
+  state: NY
+  postal_code: 10055
+  housing_payment: 1700
+  income: 70000
+  fico_score:
+  offer_code: HAHAH-AHAHA
+  offer_count: 10
+frazier_bad_code:
+  loan_amount: 22500
+  first_name: FRAZIER
+  last_name: ALBURGER
+  date_of_birth: February 1, 1959
+  house_number: 114
+  street_name: E 40TH
+  street_type: ST
+  apt_num: 8C
+  city: NEW YORK
+  state: NY
+  postal_code: 10016
+  housing_payment: 1000
+  income: 130000
+  fico_score: 787
+  offer_code: HAHAH-AHAHA
+  offer_count: 15

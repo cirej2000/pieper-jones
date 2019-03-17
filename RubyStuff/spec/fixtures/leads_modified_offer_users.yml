@@ -1,0 +1,30 @@
+sharma_interest:
+  loan_amount: 10000
+  first_name: SHAMLA
+  last_name: SHARMA
+  date_of_birth: February 1, 1989
+  house_number: 24
+  street_name: TOBIN
+  street_type: LN
+  city: BRISTOL
+  state: RI
+  postal_code: 02809
+  housing_payment: 1600
+  income: 110000
+  interest: 1.99
+  fico_score: 813
+sharma_offer:
+  loan_amount: 10000
+  first_name: SHAMLA
+  last_name: SHARMA
+  date_of_birth: February 1, 1989
+  house_number: 24
+  street_name: TOBIN
+  street_type: LN
+  city: BRISTOL
+  state: RI
+  postal_code: 02809
+  housing_payment: 1600
+  income: 110000
+  offer_amount: 30000
+  fico_score: 813

@@ -1,0 +1,19 @@
+ny:
+  loan_amount: 5000
+  first_name: EDDIE
+  last_name: EDWARDS
+  date_of_birth: February 1, 1972
+  house_number: 419
+  direction:
+  street_name: CHEMUNG
+  street_type: ST
+  apt_num:
+  city: WAVERLY
+  state: NY
+  postal_code: 14892
+  housing_payment: 1000
+  income: 60000
+  fico_score:
+  offer_code:
+  offer_count: 0
+  score_factors: "39,10,13,3,00"

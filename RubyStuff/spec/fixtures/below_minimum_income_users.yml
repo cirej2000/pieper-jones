@@ -1,0 +1,16 @@
+zero_dollar_income:
+  loan_amount: 15000
+  first_name: EVA
+  last_name: COBIAN
+  date_of_birth: February 1, 1946
+  house_number: 168
+  direction:
+  street_name: MITCHELL TRAIL
+  street_type: RD
+  apt_num:
+  city: STATESVILLE
+  state: NC
+  postal_code: 28265
+  housing_payment: 1200
+  income: 0
+  fico_score: 516
