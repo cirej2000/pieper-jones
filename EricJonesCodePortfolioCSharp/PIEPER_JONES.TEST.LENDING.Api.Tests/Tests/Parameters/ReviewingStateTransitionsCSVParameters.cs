@@ -3,7 +3,7 @@ using PIEPER_JONES.Common.Enums;
 using System.Collections.Generic;
 using System.IO;
 
-namespace PIEPER_JONES.TEST.LOANAPP.Api.Tests.Tests.Parameters
+namespace PIEPER_JONES.TEST.LENDING.Api.Tests.Tests.Parameters
 {
     /// <summary>
     /// This class will take data from a CSV file and use the CsvHelp library and yield key word 
